@@ -3,7 +3,7 @@
 
 - 📖 Estudante de Sistema da Informação  
 - 🖥 Acostumado mais com o front-end  
-
+- 🔎 Em busca da minha primeira opoturnidade de denvolvedor front-end
 ##
 
 <p align="left">
