@@ -3,7 +3,7 @@
 
 - 📖 Estudante de Sistema da Informação  
 - 🖥 Acostumado mais com o front-end  
-- 🔎 Em busca da minha primeira opoturnidade de denvolvedor front-end
+- 🔎 Em busca da minha primeira opoturnidade de desenvolvedor front-end
 ##
 <p align="left">
  <img align="center" alt="mc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"height="30px" width="30px">
