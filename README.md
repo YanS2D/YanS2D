@@ -1,7 +1,7 @@
 ## Seja bem-vindo ao meu perfil 
 # ⌨ Yan da Silva 
 
-- 📖 Estudante de Sistema da Informação  
+- 📖 Formado em Sistema da Informação  
 - 🖥 Acostumado mais com o front-end  
 - 🔎 Em busca da minha primeira opoturnidade de desenvolvedor front-end
 ##
